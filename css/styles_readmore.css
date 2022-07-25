@@ -85,8 +85,9 @@
     padding-top: 70px;
   }
   .viy {
-    flex-grow: 1;
-    max-width: 100%;
+    width: 280px;
+    height: 417px;
+    object-fit: cover;
   }
   .tittle {
     font-size: 50px;

@@ -257,8 +257,10 @@ html {
     flex-grow: 1;
 }
 .block__img {
-    max-width: 100%;
+    width: 417px;
+    height: 494px;
     padding-bottom: 40px;
+    object-fit: cover;
 }
 .back {
     background-color: #08335c;
