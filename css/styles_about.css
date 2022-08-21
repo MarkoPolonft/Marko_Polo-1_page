@@ -85,6 +85,15 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+.page-img1 {
+  max-height: 244px;
+}
+.page-img2 {
+  max-height: 244px;
+}
+.page-img3 {
+  max-height: 244px;
+}
 .page-tittle {
   display: flex;
   justify-content: center;
