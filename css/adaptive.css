@@ -51,6 +51,9 @@
     font-size: 40px;
     letter-spacing: 6px;
     }
+    .footer-list__item {
+        margin-left: 15px;
+    }
     .main-text__title2 {
         font-size: 40px;
         letter-spacing: 6px;

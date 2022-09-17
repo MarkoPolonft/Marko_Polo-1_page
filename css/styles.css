@@ -343,6 +343,9 @@ html {
 .footer-list__item {
     margin-left: 32px;
 }
+.vitol {
+    max-width: 90px;
+}
 .footer-list__item:first-child {
     margin-left: 0;
 }
